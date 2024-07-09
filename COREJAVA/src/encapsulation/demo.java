@@ -9,7 +9,5 @@ public class demo {
 		e.name="KSK";
 		e.age=18;
 		e.show();
-
 	}
-
 }

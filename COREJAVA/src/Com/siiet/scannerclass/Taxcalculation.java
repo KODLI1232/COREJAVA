@@ -12,8 +12,6 @@ public class Taxcalculation {
 		}
 		else {
 			p.setTax(10);
-		}
-		
+		}	
 	}
-
 }

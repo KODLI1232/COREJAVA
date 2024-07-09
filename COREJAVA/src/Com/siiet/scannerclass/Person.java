@@ -37,6 +37,5 @@ public class Person {
 	public String toString() {
 		return "Person [name=" + name + ", income=" + income + ", tax=" + tax + "]";
 	}
-		
 	}
 	

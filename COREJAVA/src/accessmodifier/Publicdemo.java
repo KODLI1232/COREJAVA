@@ -6,7 +6,5 @@ public int a;
 		// TODO Auto-generated method stub
 		Publicdemo d=new Publicdemo();
 		System.out.println(d.a);
-
 	}
-
 }

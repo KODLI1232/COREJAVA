@@ -7,5 +7,4 @@ public class demo {
 Publicdemo a=new Publicdemo();
 System.out.println(a);
 	}
-
 }
