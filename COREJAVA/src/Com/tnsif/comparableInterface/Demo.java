@@ -14,11 +14,11 @@ public class Demo
 		
 		ArrayList<Student> al=new ArrayList<Student>();
 		
-		Student s=new Student(103,"reshma","cse");
+		Student s=new Student(103,"KSK","IOT");
 		al.add(s);
-		 s=new Student(101,"keshma","cse");
+		 s=new Student(101,"DSK","AIML");
 		 al.add(s);
-		 s=new Student(102,"seshma","cse");
+		 s=new Student(102,"TSK","MECH");
 		
 		al.add(s);
 		
