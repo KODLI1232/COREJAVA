@@ -12,7 +12,7 @@ class TestNestedinterface implements AB.Message{
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		AB.Message message=new TestNestedinterface Message();
+		AB.Message message=new TestNestedinterface();
 		message.msg();
 
 	}
